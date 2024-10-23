@@ -13,7 +13,7 @@ from restconf_final import create, delete, enable, disable, status
 #######################################################################################
 # 2. Assign the Webex hard-coded access token to the variable accessToken.
 
-accessToken = "Bearer ZDdjNTc0NTQtYjY2My00ZGNiLTlhNzUtZjE1NTk4NDdiMWIwM2Y1MGUyNDUtYzE5_P0A1_1ad92174-dfe2-4740-b008-57218895946c"
+accessToken = "Bearer MTM0NTM4ODctYzA2My00YTllLWFkNWItNjg4ZDU3MjJjMThkYTZlZWI2MjctZmNh_P0A1_1ad92174-dfe2-4740-b008-57218895946c"
 
 #######################################################################################
 # 3. Prepare parameters get the latest message for messages API.
